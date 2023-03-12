@@ -16,9 +16,7 @@
 
 #### Projetos (Projects)
 
--   Falta adicionar
--   Falta adicionar
-
+-   [Acesse aqui](https://github.com/carlosecosmesilva/c-projects-and-exercises/tree/main/projects)
 ### Observação
 
 -   Todo o conteúdo aqui é para estudos e para que facilitem a sua vida durante a faculdade, curso, ou estudos de Estrutura de Dados com linguagem C.
