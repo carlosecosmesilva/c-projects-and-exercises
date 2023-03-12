@@ -2,20 +2,17 @@
 
 ### Conteúdos (Aulas - Exercícios - Projetos)
 
-#### Listas Encadeadas (Linked List)
+#### Listas Encadeadas e TAD (Linked List - Abstract Data Type)
 
--   [Aula](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/aulas/listas)
--   [Exercícios](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/exercicios/1-lista-encadeada)
+-   [Acesse aqui](https://github.com/carlosecosmesilva/c-projects-and-exercises/tree/main/linked-list)
 
 #### Estrutura de Dados (Data Structures)
 
--   [Aula](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/aulas/filas)
--   [Exercícios](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/exercicios/2-fila-pilha)
+-   [Acesse aqui](https://github.com/carlosecosmesilva/c-projects-and-exercises/tree/main/datastructures-and-algorithms)
 
 #### Algoritimos (Algorithms)
 
--   [Aula](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/aulas/pilhas)
--   [Exercícios](https://github.com/carlosecosmesilva/estrutura-de-dados-c/tree/master/exercicios/2-fila-pilha)
+-   [Acesse aqui](https://github.com/carlosecosmesilva/c-projects-and-exercises/tree/main/algorithms)
 
 #### Projetos (Projects)
 
